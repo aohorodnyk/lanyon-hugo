@@ -44,3 +44,7 @@ If you're interested in hacking on this theme, please check out [CONTRIBUTING](C
 
 ## License
 MIT, see [LICENSE.md](LICENSE.md).
+
+Add:
+* https://github.com/mermaid-js/mermaid
+* https://github.com/KaTeX/KaTeX

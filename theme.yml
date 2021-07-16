@@ -1,0 +1,16 @@
+name: "Lanyon"
+license: "MIT"
+licenselink: "https://github.com/aohorodnyk/lanyon-hugo/blob/master/LICENSE.md"
+description: "Lanyon-Hugo is a theme designed for blogging."
+homepage: "https://github.com/aohorodnyk/lanyon-hugo"
+tags: [ "blog", "minimalistic", "clean" ]
+features: [ "blog" ]
+min_version: 0.85
+
+author:
+  name: "Anton Ohorodnyk"
+
+original:
+  author: tummychow
+  homepage: "https://github.com/tummychow/lanyon-hugo"
+  repo: "https://github.com/tummychow/lanyon-hugo"

@@ -2,4 +2,4 @@ module github.com/aohorodnyk/lanyon-hugo
 
 go 1.16
 
-require github.com/poole/poole v2.1.0+incompatible // indirect
+require github.com/mermaid-js/mermaid v8.8.4+incompatible // indirect

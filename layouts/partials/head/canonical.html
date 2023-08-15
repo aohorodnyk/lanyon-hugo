@@ -1,5 +1,7 @@
+{{ $relURL := .Permalink }}
 {{ with .Params.relcanonical }}
-  <link rel="canonical" href="{{ . | relLangURL }}" itemprop="url" />
-{{ else -}}
-  <link rel="canonical" href="{{ .Permalink }}" itemprop="url" />
+  {{ $relURL = . | relLangURL }}
 {{ end -}}
+
+<link rel="canonical" href="{{ $relURL }}" />
+<link itemprop="url" href="{{ $relURL }}" />
